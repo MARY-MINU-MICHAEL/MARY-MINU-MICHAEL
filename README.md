@@ -1,3 +1,4 @@
+![Banner](banner.png)
 ## 🙋🏻‍♀️ Introducing Myself
 
 Hello, I'm Minu. Data Analyst with 3+ years of experience in e-commerce and automotive data, specializing in data cleaning, validation and automation. I hold an M.Sc. in Applied Statistics and Data Analytics, and I'm now building a public Data analysis portfolio.
