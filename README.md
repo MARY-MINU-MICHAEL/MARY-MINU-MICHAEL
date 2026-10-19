@@ -23,4 +23,4 @@ Explore my data analysis projects and SQL case studies in my [portfolio](https:/
 
 ## 👋🏻 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+* [LinkedIn](https://www.linkedin.com/in/mary-minu-michael-159178179)
